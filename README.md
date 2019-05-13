@@ -1,0 +1,2 @@
+# Query
+cpp third exercise
